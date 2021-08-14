@@ -7,3 +7,5 @@
 # Editor-based HTTP Client requests
 /httpRequests/
 .idea
+architectures_and_design_patterns.iml
+/out/
